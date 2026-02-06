@@ -7,10 +7,14 @@
 <sup>1</sup>Tsinghua University, Shenzhen &bull; <sup>2</sup>CUHK, Shenzhen &bull; <sup>3</sup>Peking University, Beijing
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2602.03887"><img src="https://img.shields.io/badge/📄_Paper-arXiv_2602.03887-b31b1b?style=for-the-badge" alt="Paper"></a>
-  <a href="https://m4a1tastegood.github.io/PFM-DenseBench"><img src="https://img.shields.io/badge/🌐_Project-Page-blue?style=for-the-badge" alt="Project Page"></a>
-  <a href="https://github.com/lingxitong/PFM_Segmentation"><img src="https://img.shields.io/badge/💻_GitHub-Code-black?style=for-the-badge" alt="GitHub Code"></a>
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flingxitong%2FPFM_Segmentation&label=visitors&countColor=%23263759&style=for-the-badge" alt="Visitors">
+  <a href='https://arxiv.org/abs/2602.03887'>
+  <img src='https://img.shields.io/badge/Arxiv-2602.03887-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> 
+  <a href='https://m4a1tastegood.github.io/PFM-DenseBench'>
+  <img src='https://img.shields.io/badge/Project-Page-%23df5b46?style=flat&logo=Google%20chrome&logoColor=%23df5b46'></a> 
+  <a href='https://github.com/lingxitong/PFM_Segmentation'>
+  <img src='https://img.shields.io/badge/GitHub-Code-black?style=flat&logo=github&logoColor=white'></a> 
+  <a href="" target='_blank'>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lingxitong.PFM_Segmentation&left_color=gray&right_color=%2342b983"></a> 
 </p>
 
 ---
